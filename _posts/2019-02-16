@@ -1,1 +1,17 @@
-test - create file in github website.
+
+---
+layout: post
+title: "Start editing echoserver"
+---
+<p>
+I started editing a simple echoserver that I wrote with boost asio.
+</p>
+<p>
+I first wrote a server code with minimal functions, but now I think that it is not a 'good' and 'simple' server code. That's why I started changing the code.
+</p>
+<p>
+Now it's in a private repository but someday I will release the code and write an article about it.
+</p>
+<p>
+I wish that it could be a big motivation to me, again. Haha.
+</p>
